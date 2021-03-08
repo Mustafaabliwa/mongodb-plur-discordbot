@@ -81,7 +81,7 @@ client.on('guildMemberRemove', member => {
 })
 
 
-mongoose.connect("mongodb+srv://dbAdemcan:adem4735@cluster0.qvrw9.mongodb.net/plurbot?retryWrites=true&w=majority", {
+mongoose.connect("MONGO URL", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
