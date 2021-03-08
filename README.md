@@ -10,3 +10,4 @@ Discord MongoDB bot example.
 -
 `node .`
 
+![](https://media.discordapp.net/attachments/818093236173799424/818478326300803072/Open_Source.png?width=1202&height=676)
