@@ -1,0 +1,25 @@
+{
+  "name": "plurbot",
+  "version": "1.0.0",
+  "description": "PlurBot ile discord sunucunu değiştir.",
+  "main": "plur.js",
+  "scripts": {
+    "start": "node plur.js"
+  },
+  "keywords": [
+    "plurbot",
+    "plur",
+    "adem",
+    "ademcan",
+    "plurdev"
+  ],
+  "author": "AdemCan",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.1.0",
+    "discord-xp": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.18"
+  }
+}
